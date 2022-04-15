@@ -14,15 +14,17 @@ Overview of Files
 
 **Overview of Data**:
 
-```Snow Plow Data`` - Feb 17th 8 PM - Feb 18th at 1 AM 
+```Snow Plow Data``` - Feb 17th 8 PM - Feb 18th at 1 AM 
 
 ```src``` folder: then have all our data folders (Plow TO, weather, shapefiles, twitter, demographics) there 
 ```ima``` folder: contain flow chart images for main project components
 ```Presentation-Snow Plow TO.pptx```: presentation showing the exploratory data analyses process
 
 Links to Medium Articles:
+How to Download from an ArcGIS REST Server using Python - https://medium.com/@thomas.deboer/how-to-download-from-an-arcgis-rest-server-using-python-df900db3e364
 Choropleth maps with time sliders using Plotly - https://medium.com/@lucas_bromerchenkel/choropleth-maps-with-time-sliders-using-plotly-df6e19e5f90c
-Getting Stated with Twitter API - 
+Absolute Beginners Guide the Twitter API and Tweepy - 
+
 ____________________________________________________________________________________________________________________________________________________
 
     Street Data
