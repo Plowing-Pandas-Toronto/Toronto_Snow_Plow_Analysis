@@ -23,7 +23,7 @@ In this project, data was collected from the [City's PlowTO Map](https://www.tor
 **Links to Medium Articles:**
 * How to Download from an ArcGIS REST Server using Python - https://medium.com/@thomas.deboer/how-to-download-from-an-arcgis-rest-server-using-python-df900db3e364
 * Choropleth maps with time sliders using Plotly - https://medium.com/@lucas_bromerchenkel/choropleth-maps-with-time-sliders-using-plotly-df6e19e5f90c
-* Absolute Beginners Guide Tweepy and the Twitter APIs - 
+* Absolute Beginners Guide to Tweepy and the Twitter APIs - https://medium.com/@katia.ossetchkina57/absolute-beginners-guide-tweepy-and-the-twitter-apis-6070995efc63
 
 
 **Workflow for Street Line Data:** 
