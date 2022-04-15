@@ -35,14 +35,15 @@ To begin, run the notebook 'Street Data Parsing.ipynb'. It will iterate through 
 Next, run the notebook 'Street Data Map Pipeline.ipynb'. It will iterate over the available folder in the 'src' folder, and create an animated choropleth map, and two visualizations using seaborn. It might take a few minutes of run time.
 Right now, there are only 3 timestamps since each raw timestamp takes up a lot of space. If you'd like to implement a similar project, check out the Medium articles linked at the top of this file and find out how to collect more timestamp data.
 
-Workflow for Street Line Data: 
-![Workflow Street Line Data](/img/Street Plow Pipeline.png)
+**Workflow for Street Line Data:** 
 
-Workflow for Plow Point Data: 
-![Workflow Plow Point Data](/img/Point Plow Pipeline.png)
+![Workflow Street Line Data](/img/street_plow_pipeline.png)
 
-Workflow for Twitter API Data: 
-![Workflow Twitter API Data](/img/Twitter Processing Pipeline.png)
+**Workflow for Plow Point Data:**
+
+![Workflow Plow Point Data](/img/point_plow_pipeline.png)
+
+**Workflow for Twitter API Data:** 
 
 ![alt text for screen readers](/img/twitter_processing_pipeline.png "Text to show on mouseover")
 
