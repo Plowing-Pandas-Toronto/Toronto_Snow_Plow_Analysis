@@ -43,3 +43,6 @@ Workflow for Plow Point Data:
 
 Workflow for Twitter API Data: 
 ![Workflow Twitter API Data](/img/Twitter Processing Pipeline.png)
+
+![alt text for screen readers](/img/Twitter Processing Pipeline.png "Text to show on mouseover")
+
