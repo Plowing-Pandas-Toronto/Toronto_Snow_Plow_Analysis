@@ -1,0 +1,515 @@
+{
+      "currentVersion": 10.81,
+      "id": 0,
+      "name": "PLOWTO Snow Routes",
+      "type": "Feature Layer",
+      "serviceItemId": "4d6eda18ea64439ebbf6f7577dd71a47",
+      "cacheMaxAge": 300,
+      "isView": true,
+      "isUpdatableView": true,
+      "sourceSchemaChangesAllowed": true,
+      "displayField": "route_name",
+      "description": "",
+      "copyrightText": "",
+      "defaultVisibility": true,
+      "editingInfo": {
+            "lastEditDate": 1645127731729
+      },
+      "relationships": [],
+      "isDataVersioned": false,
+      "hasContingentValuesDefinition": false,
+      "supportsAppend": true,
+      "supportsCalculate": true,
+      "supportsASyncCalculate": true,
+      "supportsTruncate": false,
+      "supportsAttachmentsByUploadId": true,
+      "supportsAttachmentsResizing": true,
+      "supportsRollbackOnFailureParameter": true,
+      "supportsStatistics": true,
+      "supportsExceedsLimitStatistics": true,
+      "supportsAdvancedQueries": true,
+      "supportsValidateSql": true,
+      "supportsCoordinatesQuantization": true,
+      "supportsLayerOverrides": true,
+      "supportsTilesAndBasicQueriesMode": true,
+      "supportsFieldDescriptionProperty": true,
+      "supportsQuantizationEditMode": true,
+      "supportsApplyEditsWithGlobalIds": false,
+      "supportsMultiScaleGeometry": true,
+      "supportsReturningQueryGeometry": true,
+      "hasGeometryProperties": true,
+      "geometryProperties": {
+            "shapeLengthFieldName": "Shape__Length",
+            "units": "esriMeters"
+      },
+      "advancedQueryCapabilities": {
+            "supportsPagination": true,
+            "supportsQueryAttachmentsCountOnly": true,
+            "supportsPaginationOnAggregatedQueries": true,
+            "supportsQueryRelatedPagination": true,
+            "supportsQueryWithDistance": true,
+            "supportsReturningQueryExtent": true,
+            "supportsStatistics": true,
+            "supportsOrderBy": true,
+            "supportsDistinct": true,
+            "supportsQueryWithResultType": true,
+            "supportsSqlExpression": true,
+            "supportsAdvancedQueryRelated": true,
+            "supportsCountDistinct": true,
+            "supportsPercentileStatistics": true,
+            "supportsSpatialAggregationStatistics": true,
+            "supportedSpatialAggregationStatistics": [
+                  "EnvelopeAggregate",
+                  "CentroidAggregate",
+                  "ConvexHullAggregate"
+            ],
+            "supportsLod": true,
+            "supportsQueryWithLodSR": false,
+            "supportedLodTypes": [
+                  "geohash"
+            ],
+            "supportsReturningGeometryCentroid": false,
+            "supportsReturningGeometryProperties": true,
+            "supportsQueryWithDatumTransformation": true,
+            "supportsHavingClause": true,
+            "supportsOutFieldSQLExpression": true,
+            "supportsMaxRecordCountFactor": true,
+            "supportsTopFeaturesQuery": true,
+            "supportsDisjointSpatialRel": true,
+            "supportsQueryWithCacheHint": true,
+            "supportsQueryAnalytic": true
+      },
+      "advancedQueryAnalyticCapabilities": {
+            "supportsLinearRegression": true,
+            "supportsAsync": true,
+            "supportsPercentileAnalytic": true
+      },
+      "advancedEditingCapabilities": {
+            "supportedSqlFormatsInCalculate": [
+                  "standard"
+            ],
+            "supportsAsyncApplyEdits": true,
+            "supportsReturnEditResults": true
+      },
+      "infoInEstimates": [
+            "extent",
+            "count"
+      ],
+      "useStandardizedQueries": true,
+      "geometryType": "esriGeometryPolyline",
+      "minScale": 0,
+      "maxScale": 0,
+      "extent": {
+            "xmin": -8865403.012157133,
+            "ymin": 5401671.775209281,
+            "xmax": -8807820.113463938,
+            "ymax": 5443101.495258887,
+            "spatialReference": {
+                  "wkid": 102100,
+                  "latestWkid": 3857
+            }
+      },
+      "drawingInfo": {
+            "renderer": {
+                  "type": "uniqueValue",
+                  "field1": "status",
+                  "fieldDelimiter": ",",
+                  "uniqueValueInfos": [
+                        {
+                              "symbol": {
+                                    "color": [
+                                          56,
+                                          168,
+                                          0,
+                                          255
+                                    ],
+                                    "width": 4,
+                                    "type": "esriSLS",
+                                    "style": "esriSLSSolid"
+                              },
+                              "value": "1",
+                              "label": "< 4 Hours Ago"
+                        },
+                        {
+                              "symbol": {
+                                    "color": [
+                                          0,
+                                          197,
+                                          255,
+                                          255
+                                    ],
+                                    "width": 4,
+                                    "type": "esriSLS",
+                                    "style": "esriSLSSolid"
+                              },
+                              "value": "2",
+                              "label": "4-12 Hours Ago"
+                        },
+                        {
+                              "symbol": {
+                                    "color": [
+                                          250,
+                                          52,
+                                          17,
+                                          255
+                                    ],
+                                    "width": 4,
+                                    "type": "esriSLS",
+                                    "style": "esriSLSSolid"
+                              },
+                              "value": "3",
+                              "label": "12-24 Hours Ago"
+                        },
+                        {
+                              "symbol": {
+                                    "color": [
+                                          130,
+                                          130,
+                                          130,
+                                          255
+                                    ],
+                                    "width": 3.4,
+                                    "type": "esriSLS",
+                                    "style": "esriSLSSolid"
+                              },
+                              "value": "4",
+                              "label": ">24 Hours Ago"
+                        }
+                  ]
+            },
+            "transparency": 0
+      },
+      "allowGeometryUpdates": true,
+      "hasAttachments": false,
+      "viewSourceHasAttachments": false,
+      "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+      "hasM": false,
+      "hasZ": false,
+      "objectIdField": "OBJECTID",
+      "uniqueIdField": {
+            "name": "OBJECTID",
+            "isSystemMaintained": true
+      },
+      "globalIdField": "",
+      "typeIdField": "status",
+      "fields": [
+            {
+                  "name": "OBJECTID",
+                  "type": "esriFieldTypeOID",
+                  "alias": "OBJECTID",
+                  "sqlType": "sqlTypeOther",
+                  "nullable": false,
+                  "editable": false,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "priority",
+                  "type": "esriFieldTypeString",
+                  "alias": "Priority",
+                  "sqlType": "sqlTypeOther",
+                  "length": 50,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "routetype",
+                  "type": "esriFieldTypeString",
+                  "alias": "Route Type",
+                  "sqlType": "sqlTypeOther",
+                  "length": 20,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "routeno",
+                  "type": "esriFieldTypeString",
+                  "alias": "Route Number",
+                  "sqlType": "sqlTypeOther",
+                  "length": 20,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "route_name",
+                  "type": "esriFieldTypeString",
+                  "alias": "Route Name",
+                  "sqlType": "sqlTypeOther",
+                  "length": 150,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "road_name",
+                  "type": "esriFieldTypeString",
+                  "alias": "Road Name",
+                  "sqlType": "sqlTypeOther",
+                  "length": 254,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "district",
+                  "type": "esriFieldTypeString",
+                  "alias": "District",
+                  "sqlType": "sqlTypeOther",
+                  "length": 60,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "unqueid",
+                  "type": "esriFieldTypeInteger",
+                  "alias": "Unique ID",
+                  "sqlType": "sqlTypeOther",
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "line",
+                  "type": "esriFieldTypeInteger",
+                  "alias": "Line ID",
+                  "sqlType": "sqlTypeOther",
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "status",
+                  "type": "esriFieldTypeString",
+                  "alias": "Status",
+                  "sqlType": "sqlTypeOther",
+                  "length": 2,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "completetime",
+                  "type": "esriFieldTypeDate",
+                  "alias": "Complete Time",
+                  "sqlType": "sqlTypeOther",
+                  "length": 8,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "receivedtime",
+                  "type": "esriFieldTypeDate",
+                  "alias": "Received Time",
+                  "sqlType": "sqlTypeOther",
+                  "length": 8,
+                  "nullable": true,
+                  "editable": true,
+                  "domain": null,
+                  "defaultValue": null
+            },
+            {
+                  "name": "Shape__Length",
+                  "type": "esriFieldTypeDouble",
+                  "alias": "Shape__Length",
+                  "sqlType": "sqlTypeDouble",
+                  "nullable": true,
+                  "editable": false,
+                  "domain": null,
+                  "defaultValue": null
+            }
+      ],
+      "indexes": [
+            {
+                  "name": "PK__PLOWTO_S__F4B70D856F9E2F78",
+                  "fields": "OBJECTID",
+                  "isAscending": true,
+                  "isUnique": true,
+                  "description": ""
+            },
+            {
+                  "name": "user_29537.PLOWTO_SNOWROUTES_PLOWTO_SNOW_ROUTES_Shape_sidx",
+                  "fields": "Shape",
+                  "isAscending": true,
+                  "isUnique": false,
+                  "description": ""
+            },
+            {
+                  "name": "I3status",
+                  "fields": "status",
+                  "isAscending": true,
+                  "isUnique": false,
+                  "description": ""
+            },
+            {
+                  "name": "I3line",
+                  "fields": "line",
+                  "isAscending": true,
+                  "isUnique": false,
+                  "description": ""
+            },
+            {
+                  "name": "Shape__Length_Index",
+                  "fields": "Shape__Length",
+                  "isAscending": true,
+                  "isUnique": false,
+                  "description": ""
+            },
+            {
+                  "name": "priority_Index",
+                  "fields": "priority",
+                  "isAscending": true,
+                  "isUnique": false,
+                  "description": "priority_Index"
+            },
+            {
+                  "name": "status_Index",
+                  "fields": "status",
+                  "isAscending": true,
+                  "isUnique": false,
+                  "description": "status_Index"
+            }
+      ],
+      "dateFieldsTimeReference": {
+            "timeZone": "UTC",
+            "respectsDaylightSaving": false
+      },
+      "preferredTimeReference": null,
+      "types": [
+            {
+                  "id": "1",
+                  "name": "1",
+                  "domains": {},
+                  "templates": [
+                        {
+                              "name": "1",
+                              "description": "",
+                              "drawingTool": "esriFeatureEditToolLine",
+                              "prototype": {
+                                    "attributes": {
+                                          "completetime": null,
+                                          "receivedtime": null,
+                                          "priority": null,
+                                          "routetype": null,
+                                          "routeno": null,
+                                          "route_name": null,
+                                          "road_name": null,
+                                          "district": null,
+                                          "unqueid": null,
+                                          "line": null,
+                                          "status": null
+                                    }
+                              }
+                        }
+                  ]
+            },
+            {
+                  "id": "2",
+                  "name": "2",
+                  "domains": {},
+                  "templates": [
+                        {
+                              "name": "2",
+                              "description": "",
+                              "drawingTool": "esriFeatureEditToolLine",
+                              "prototype": {
+                                    "attributes": {
+                                          "completetime": null,
+                                          "receivedtime": null,
+                                          "priority": null,
+                                          "routetype": null,
+                                          "routeno": null,
+                                          "route_name": null,
+                                          "road_name": null,
+                                          "district": null,
+                                          "unqueid": null,
+                                          "line": null,
+                                          "status": null
+                                    }
+                              }
+                        }
+                  ]
+            },
+            {
+                  "id": "3",
+                  "name": "3",
+                  "domains": {},
+                  "templates": [
+                        {
+                              "name": "3",
+                              "description": "",
+                              "drawingTool": "esriFeatureEditToolLine",
+                              "prototype": {
+                                    "attributes": {
+                                          "completetime": null,
+                                          "receivedtime": null,
+                                          "priority": null,
+                                          "routetype": null,
+                                          "routeno": null,
+                                          "route_name": null,
+                                          "road_name": null,
+                                          "district": null,
+                                          "unqueid": null,
+                                          "line": null,
+                                          "status": null
+                                    }
+                              }
+                        }
+                  ]
+            },
+            {
+                  "id": "4",
+                  "name": "4",
+                  "domains": {},
+                  "templates": [
+                        {
+                              "name": "4",
+                              "description": "",
+                              "drawingTool": "esriFeatureEditToolLine",
+                              "prototype": {
+                                    "attributes": {
+                                          "completetime": null,
+                                          "receivedtime": null,
+                                          "priority": null,
+                                          "routetype": null,
+                                          "routeno": null,
+                                          "route_name": null,
+                                          "road_name": null,
+                                          "district": null,
+                                          "unqueid": null,
+                                          "line": null,
+                                          "status": null
+                                    }
+                              }
+                        }
+                  ]
+            }
+      ],
+      "templates": [],
+      "supportedQueryFormats": "JSON, geoJSON, PBF",
+      "supportedAppendFormats": "sqlite,gpkg,shapefile,filegdb,featureCollection,geojson,csv,excel",
+      "supportedExportFormats": "csv,shapefile,sqlite,gpkg,filegdb,featureCollection,geojson,excel",
+      "supportedContingentValuesFormats": "JSON, PBF",
+      "supportedSyncDataOptions": 4,
+      "hasStaticData": true,
+      "maxRecordCount": 1000,
+      "standardMaxRecordCount": 4000,
+      "standardMaxRecordCountNoGeometry": 32000,
+      "tileMaxRecordCount": 4000,
+      "maxRecordCountFactor": 1,
+      "capabilities": "Query"
+}
