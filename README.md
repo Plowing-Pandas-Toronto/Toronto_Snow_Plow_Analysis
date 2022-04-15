@@ -5,8 +5,8 @@ Overview of Files
 1. ```REST Server Downloader.ipynb```: Downloads from PlowTO Map REST Server and saves to JSON
 2. ```Plow Data Pipeline.ipynb```: Parses PlowTO JSON files to shapefile and creates plots of plow utility
 3. ```Weather Data Pipeline.ipnyb```: Parses Environment Canada data CSV files.
-4. Plow TO Streets...
-5. Plow TO ...
+4. ```Plow TO Streets...```
+5. ```Plow TO Street Map ...```
 6. ```Twitter Data Pipeline.ipnyb```: Connect to Twitter to Search Full Archive and Search User Timeline API endpoints and save into a Pandas dataframe. Performs Sentiment analysis.
 7. ```Twitter Sentiment and Weather Data.ipynb```: Merges Twitter sentiment and weather information, generates visualizations per storm event.
 
