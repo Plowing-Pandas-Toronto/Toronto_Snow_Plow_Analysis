@@ -1,0 +1,279 @@
+{
+      "type": "FeatureCollection",
+      "crs": {
+            "type": "name",
+            "properties": {
+                  "name": "EPSG:4326"
+            }
+      },
+      "features": [
+            {
+                  "type": "Feature",
+                  "id": 22382,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.475975,
+                                    43.699432
+                              ],
+                              [
+                                    -79.4764,
+                                    43.701241
+                              ],
+                              [
+                                    -79.476778,
+                                    43.702846
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 22382,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 22806,
+                        "line": 1059947,
+                        "status": "3",
+                        "completetime": 1643803470000,
+                        "receivedtime": 1643837735024,
+                        "Shape__Length": 533.170896039952
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 22783,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.476818,
+                                    43.703027
+                              ],
+                              [
+                                    -79.476522,
+                                    43.703042
+                              ],
+                              [
+                                    -79.476025,
+                                    43.70309
+                              ],
+                              [
+                                    -79.475528,
+                                    43.70319
+                              ],
+                              [
+                                    -79.473243,
+                                    43.703701
+                              ],
+                              [
+                                    -79.47313,
+                                    43.703741
+                              ],
+                              [
+                                    -79.473075,
+                                    43.703781
+                              ],
+                              [
+                                    -79.473038,
+                                    43.703831
+                              ],
+                              [
+                                    -79.47302,
+                                    43.703884
+                              ],
+                              [
+                                    -79.473029,
+                                    43.703963
+                              ],
+                              [
+                                    -79.473054,
+                                    43.704027
+                              ],
+                              [
+                                    -79.473253,
+                                    43.70452
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 22783,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Local",
+                        "road_name": "DENSLEY AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 23211,
+                        "line": 1060253,
+                        "status": "3",
+                        "completetime": 1643803480000,
+                        "receivedtime": 1643837735018,
+                        "Shape__Length": 553.937252730624
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 22726,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.476986,
+                                    43.703741
+                              ],
+                              [
+                                    -79.477112,
+                                    43.704273
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 22726,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 23152,
+                        "line": 1060127,
+                        "status": "3",
+                        "completetime": 1643803685000,
+                        "receivedtime": 1643837735018,
+                        "Shape__Length": 83.1601945016049
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 23018,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.477124,
+                                    43.704558
+                              ],
+                              [
+                                    -79.47739,
+                                    43.705595
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 23018,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 23449,
+                        "line": 1060169,
+                        "status": "3",
+                        "completetime": 1643803695000,
+                        "receivedtime": 1643837735018,
+                        "Shape__Length": 162.286337521211
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 23153,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.47739,
+                                    43.705595
+                              ],
+                              [
+                                    -79.477514,
+                                    43.706184
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 23153,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 23587,
+                        "line": 1060152,
+                        "status": "3",
+                        "completetime": 1643802799000,
+                        "receivedtime": 1643837735018,
+                        "Shape__Length": 91.8148054147914
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 24021,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.471916,
+                                    43.710303
+                              ],
+                              [
+                                    -79.473389,
+                                    43.709998
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 24021,
+                        "priority": "Minor Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Minor Arterial",
+                        "road_name": "LAWRENCE AVE W",
+                        "district": "Etobicoke",
+                        "unqueid": 24481,
+                        "line": 1060415,
+                        "status": "3",
+                        "completetime": 1643804280000,
+                        "receivedtime": 1643837735018,
+                        "Shape__Length": 170.596006776717
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 22590,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.476818,
+                                    43.703027
+                              ],
+                              [
+                                    -79.476986,
+                                    43.703741
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 22590,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 23014,
+                        "line": 1060732,
+                        "status": "3",
+                        "completetime": 1643802820000,
+                        "receivedtime": 1643837735024,
+                        "Shape__Length": 111.409374331535
+                  }
+            }
+      ]
+}
