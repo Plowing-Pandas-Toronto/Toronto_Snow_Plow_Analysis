@@ -11,20 +11,14 @@ Overview of Files
 7. ```Twitter Sentiment and Weather Data.ipynb```: Merges Twitter sentiment and weather information, generates visualizations per storm event.
 
 
-Organization:
 
-Data Sources Folder
+**Overview of Data**:
 
-Overview of Data:
+```Snow Plow Data`` - Feb 17th 8 PM - Feb 18th at 1 AM 
 
-Snow Plow Data - Feb 17th 8 PM - Feb 18th at 1 AM 
-
-src folder: then have all our data folders (Plow TO, weather, shapefiles, twitter, demographics) there 
-images folder: have our flow charts there
-
-PowerPoint online (main)
-
-Readme structuring
+```src``` folder: then have all our data folders (Plow TO, weather, shapefiles, twitter, demographics) there 
+```ima``` folder: contain flow chart images for main project components
+```Presentation-Snow Plow TO.pptx```: presentation showing the exploratory data analyses process
 
 Links to Medium Articles:
 Choropleth maps with time sliders using Plotly - https://medium.com/@lucas_bromerchenkel/choropleth-maps-with-time-sliders-using-plotly-df6e19e5f90c
@@ -41,3 +35,11 @@ To begin, run the notebook 'Street Data Parsing.ipynb'. It will iterate through 
 Next, run the notebook 'Street Data Map Pipeline.ipynb'. It will iterate over the available folder in the 'src' folder, and create an animated choropleth map, and two visualizations using seaborn. It might take a few minutes of run time.
 Right now, there are only 3 timestamps since each raw timestamp takes up a lot of space. If you'd like to implement a similar project, check out the Medium articles linked at the top of this file and find out how to collect more timestamp data.
 
+Workflow for Street Line Data: 
+![Workflow Street Line Data](img/Street Plow Pipeline.png)
+
+Workflow for Plow Point Data: 
+![Workflow Plow Point Data](img/Point Plow Pipeline.png)
+
+Workflow for Twitter API Data: 
+![Workflow Twitter API Data](img/Twitter Processing Pipeline.png)
