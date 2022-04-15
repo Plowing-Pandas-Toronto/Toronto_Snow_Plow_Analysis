@@ -15,7 +15,7 @@ In this project, data was collected from the [City's PlowTO Map](https://www.tor
 
 
 **Overview of Data**:
-* ```Snow Plow Data``` - Feb 17th 8 PM - Feb 18th at 1 AM 
+* ```Snow Plow Data Sample``` - Feb 17th 8 PM - Feb 18th at 1 AM 
 * ```src``` folder: then have all our data folders (Plow TO, weather, shapefiles, twitter, demographics) there 
 * ```img``` folder: contain flow chart images for main project components
 * ```Presentation-Snow Plow TO.pptx```: presentation showing the complete exploratory data analyses process
