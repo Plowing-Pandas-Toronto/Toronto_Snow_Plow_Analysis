@@ -18,7 +18,7 @@ In this project, data was collected from the [City's PlowTO Map](https://www.tor
 * ```Snow Plow Data Sample``` - Feb 17th 8 PM - Feb 18th at 1 AM 
 * ```src``` folder: then have all our data folders (Plow TO, weather, shapefiles, twitter, demographics) there 
 * ```img``` folder: contain flow chart images for main project components
-* ```Presentation-Snow Plow TO.pptx```: presentation showing the complete exploratory data analyses process
+* ```Presentation-Snow Plow TO.pdf```: presentation showing the complete exploratory data analyses process
 
 **Links to Medium Articles:**
 * How to Download from an ArcGIS REST Server using Python - https://medium.com/@thomas.deboer/how-to-download-from-an-arcgis-rest-server-using-python-df900db3e364
