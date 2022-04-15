@@ -1,7 +1,10 @@
 # Toronto Snow Plows 2022: Understanding Demand, Performance, Utilization and Public Sentiment
 
-Overview of Files
+In January 2022, Toronto had one of the most severe snow-storm events from the 16-17th. There was +45 cm of snow, making this storm fall into the top 10 most severe snow events for the City. The City was not prepared for this event, and in addition to overspending on their operations also received much negative publicity from the media.
 
+In this project, data was collected from the [City's PlowTO Map](https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/)
+
+Overview of Files
 1. ```REST Server Downloader.ipynb```: Downloads from PlowTO Map REST Server and saves to JSON
 2. ```Plow Data Pipeline.ipynb```: Parses PlowTO JSON files to shapefile and creates plots of plow utility
 3. ```Weather Data Pipeline.ipnyb```: Parses Environment Canada data CSV files.
