@@ -36,10 +36,10 @@ Next, run the notebook 'Street Data Map Pipeline.ipynb'. It will iterate over th
 Right now, there are only 3 timestamps since each raw timestamp takes up a lot of space. If you'd like to implement a similar project, check out the Medium articles linked at the top of this file and find out how to collect more timestamp data.
 
 Workflow for Street Line Data: 
-![Workflow Street Line Data](img/Street Plow Pipeline.png)
+![Workflow Street Line Data](/img/Street Plow Pipeline.png)
 
 Workflow for Plow Point Data: 
-![Workflow Plow Point Data](img/Point Plow Pipeline.png)
+![Workflow Plow Point Data](/img/Point Plow Pipeline.png)
 
 Workflow for Twitter API Data: 
-![Workflow Twitter API Data](img/Twitter Processing Pipeline.png)
+![Workflow Twitter API Data](/img/Twitter Processing Pipeline.png)
