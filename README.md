@@ -16,6 +16,7 @@ PowerPoint online (main)
 Readme structuring
 
 Links to Medium Articles:
+Choropleth maps with time sliders using Plotly - https://medium.com/@lucas_bromerchenkel/choropleth-maps-with-time-sliders-using-plotly-df6e19e5f90c
 
 For running the notebooks analyzing the street data:
 First, you'll need to download the centreline dataset from Toronto's Open Data Portal. We couldn't fit it on github due to size constraints.
