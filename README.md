@@ -29,6 +29,7 @@ Choropleth maps with time sliders using Plotly - https://medium.com/@lucas_brome
 
 ____________________________________________________________________________________________________________________________________________________
 
+    Street Data
 For running the notebooks analyzing the street data:
 First, you'll need to download the centreline dataset from Toronto's Open Data Portal. We couldn't fit it on github due to size constraints.
 Download the GeoJSON, WGS84 projection from https://open.toronto.ca/dataset/toronto-centreline-tcl/
