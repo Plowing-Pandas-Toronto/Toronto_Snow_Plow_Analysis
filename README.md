@@ -2,9 +2,13 @@
 
 Overview of Files
 1 - REST Server Downloader.ipynb: Downloads from PlowTO Map REST Server and saves to JSON
+
 2 - Plow Data Pipeline.ipynb: Parses PlowTO JSON files to shapefile and creates plots of plow utility
+
 3 - 
+
 4 - Twitter
+
 5 - 
 
 
