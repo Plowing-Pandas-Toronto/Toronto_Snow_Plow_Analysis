@@ -1,0 +1,1151 @@
+{
+      "type": "FeatureCollection",
+      "crs": {
+            "type": "name",
+            "properties": {
+                  "name": "EPSG:4326"
+            }
+      },
+      "features": [
+            {
+                  "type": "Feature",
+                  "id": 36797,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.494655,
+                                    43.77772
+                              ],
+                              [
+                                    -79.494663,
+                                    43.777801
+                              ],
+                              [
+                                    -79.494679,
+                                    43.777912
+                              ],
+                              [
+                                    -79.494679,
+                                    43.777995
+                              ],
+                              [
+                                    -79.49469,
+                                    43.778068
+                              ],
+                              [
+                                    -79.494693,
+                                    43.778145
+                              ],
+                              [
+                                    -79.494687,
+                                    43.778215
+                              ],
+                              [
+                                    -79.49469,
+                                    43.778312
+                              ],
+                              [
+                                    -79.494685,
+                                    43.778404
+                              ],
+                              [
+                                    -79.494686,
+                                    43.778513
+                              ],
+                              [
+                                    -79.494683,
+                                    43.778608
+                              ],
+                              [
+                                    -79.494681,
+                                    43.77871
+                              ],
+                              [
+                                    -79.494654,
+                                    43.778859
+                              ],
+                              [
+                                    -79.494605,
+                                    43.778994
+                              ],
+                              [
+                                    -79.494574,
+                                    43.779111
+                              ],
+                              [
+                                    -79.494545,
+                                    43.779208
+                              ],
+                              [
+                                    -79.494524,
+                                    43.779289
+                              ],
+                              [
+                                    -79.494499,
+                                    43.779376
+                              ],
+                              [
+                                    -79.494465,
+                                    43.779485
+                              ],
+                              [
+                                    -79.49445,
+                                    43.779582
+                              ],
+                              [
+                                    -79.494431,
+                                    43.779667
+                              ],
+                              [
+                                    -79.494413,
+                                    43.779757
+                              ],
+                              [
+                                    -79.494377,
+                                    43.779881
+                              ],
+                              [
+                                    -79.494363,
+                                    43.779987
+                              ],
+                              [
+                                    -79.494349,
+                                    43.780077
+                              ],
+                              [
+                                    -79.494343,
+                                    43.780155
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 36797,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 38028,
+                        "line": 1061936,
+                        "status": "3",
+                        "completetime": 1643762559000,
+                        "receivedtime": 1643825080467,
+                        "Shape__Length": 379.199617806847
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 2752,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.521228,
+                                    43.639377
+                              ],
+                              [
+                                    -79.523773,
+                                    43.638795
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 2752,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 3",
+                        "route_name": "Local",
+                        "road_name": "BERING AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 2852,
+                        "line": 1058089,
+                        "status": "3",
+                        "completetime": 1643762582000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 297.054673815223
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 32891,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.489229,
+                                    43.756359
+                              ],
+                              [
+                                    -79.489501,
+                                    43.757449
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 32891,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 33736,
+                        "line": 1061570,
+                        "status": "3",
+                        "completetime": 1643763146000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 170.707394393662
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 28159,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.472366,
+                                    43.731293
+                              ],
+                              [
+                                    -79.472596,
+                                    43.732192
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 28159,
+                        "priority": "Local",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Local",
+                        "road_name": "MURRAY RD",
+                        "district": "North York",
+                        "unqueid": 28758,
+                        "line": 1067602,
+                        "status": "3",
+                        "completetime": 1643764345000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 140.964176327705
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 2600,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.525806,
+                                    43.638339
+                              ],
+                              [
+                                    -79.528837,
+                                    43.63766
+                              ],
+                              [
+                                    -79.528972,
+                                    43.637632
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 2600,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 3",
+                        "route_name": "Local",
+                        "road_name": "BERING AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 2690,
+                        "line": 1057887,
+                        "status": "3",
+                        "completetime": 1643762635000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 368.853009520488
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 27286,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.480089,
+                                    43.727474
+                              ],
+                              [
+                                    -79.480291,
+                                    43.727388
+                              ],
+                              [
+                                    -79.480478,
+                                    43.727312
+                              ],
+                              [
+                                    -79.480694,
+                                    43.727215
+                              ],
+                              [
+                                    -79.480866,
+                                    43.72713
+                              ],
+                              [
+                                    -79.481061,
+                                    43.727023
+                              ],
+                              [
+                                    -79.481194,
+                                    43.72696
+                              ],
+                              [
+                                    -79.481366,
+                                    43.726894
+                              ],
+                              [
+                                    -79.481465,
+                                    43.726845
+                              ],
+                              [
+                                    -79.48164,
+                                    43.726775
+                              ],
+                              [
+                                    -79.481726,
+                                    43.726737
+                              ],
+                              [
+                                    -79.481806,
+                                    43.726713
+                              ],
+                              [
+                                    -79.482077,
+                                    43.726643
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 27286,
+                        "priority": "Local",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Local",
+                        "road_name": "WILSON AVE",
+                        "district": "North York",
+                        "unqueid": 27849,
+                        "line": 1067300,
+                        "status": "3",
+                        "completetime": 1643764003000,
+                        "receivedtime": 1643825080468,
+                        "Shape__Length": 256.603479003772
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 28617,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.483789,
+                                    43.733785
+                              ],
+                              [
+                                    -79.483939,
+                                    43.734361
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 28617,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 29235,
+                        "line": 1067496,
+                        "status": "3",
+                        "completetime": 1643763526000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 90.2922251220048
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 16741,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.470906,
+                                    43.680471
+                              ],
+                              [
+                                    -79.471605,
+                                    43.682136
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 16741,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 17099,
+                        "line": 1059457,
+                        "status": "3",
+                        "completetime": 1643761298000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 267.867803456979
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 28342,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.472596,
+                                    43.732192
+                              ],
+                              [
+                                    -79.472772,
+                                    43.733103
+                              ],
+                              [
+                                    -79.472714,
+                                    43.733116
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 28342,
+                        "priority": "Local",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Local",
+                        "road_name": "MURRAY RD",
+                        "district": "North York",
+                        "unqueid": 28949,
+                        "line": 1067406,
+                        "status": "3",
+                        "completetime": 1643764358000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 148.458136816232
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 16208,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.470269,
+                                    43.68062
+                              ],
+                              [
+                                    -79.470312,
+                                    43.68061
+                              ],
+                              [
+                                    -79.470375,
+                                    43.680588
+                              ],
+                              [
+                                    -79.470906,
+                                    43.680471
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 16208,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Local",
+                        "road_name": "HILLARY AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 16564,
+                        "line": 1059523,
+                        "status": "3",
+                        "completetime": 1643761150000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 74.5358041120222
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 16569,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.468353,
+                                    43.681687
+                              ],
+                              [
+                                    -79.468896,
+                                    43.681382
+                              ],
+                              [
+                                    -79.469443,
+                                    43.681073
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 16569,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Local",
+                        "road_name": "HILLARY AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 16927,
+                        "line": 1059388,
+                        "status": "3",
+                        "completetime": 1643761119000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 153.777205853007
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 17116,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.458029,
+                                    43.683096
+                              ],
+                              [
+                                    -79.458476,
+                                    43.683199
+                              ],
+                              [
+                                    -79.458848,
+                                    43.683272
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 17116,
+                        "priority": "Minor Arterial",
+                        "routetype": "Toronto / East York",
+                        "routeno": "WARD 9",
+                        "route_name": "Minor Arterial",
+                        "road_name": "ROGERS RD",
+                        "district": "Toronto / East York",
+                        "unqueid": 17478,
+                        "line": 1092876,
+                        "status": "3",
+                        "completetime": 1643760950000,
+                        "receivedtime": 1643825080466,
+                        "Shape__Length": 95.1713083608762
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 28343,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.483469,
+                                    43.732486
+                              ],
+                              [
+                                    -79.48361,
+                                    43.733123
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 28343,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 28950,
+                        "line": 1067530,
+                        "status": "3",
+                        "completetime": 1643763599000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 99.329656989911
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 37002,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.494512,
+                                    43.781581
+                              ],
+                              [
+                                    -79.497376,
+                                    43.780898
+                              ],
+                              [
+                                    -79.498778,
+                                    43.780565
+                              ],
+                              [
+                                    -79.501701,
+                                    43.779868
+                              ],
+                              [
+                                    -79.504345,
+                                    43.779238
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 37002,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "STEELES AVE W",
+                        "district": "Etobicoke",
+                        "unqueid": 38247,
+                        "line": 1062059,
+                        "status": "3",
+                        "completetime": 1643762535000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 1152.64009334628
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 31901,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.487599,
+                                    43.749608
+                              ],
+                              [
+                                    -79.48818,
+                                    43.752025
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 31901,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 32725,
+                        "line": 1067879,
+                        "status": "3",
+                        "completetime": 1643763195000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 377.996159993183
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 36481,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.494065,
+                                    43.775257
+                              ],
+                              [
+                                    -79.49458,
+                                    43.777421
+                              ],
+                              [
+                                    -79.494629,
+                                    43.777578
+                              ],
+                              [
+                                    -79.494651,
+                                    43.777666
+                              ],
+                              [
+                                    -79.494655,
+                                    43.77772
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 36481,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 37661,
+                        "line": 1061934,
+                        "status": "3",
+                        "completetime": 1643762608000,
+                        "receivedtime": 1643825080467,
+                        "Shape__Length": 385.405960789347
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 36103,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.493246,
+                                    43.771992
+                              ],
+                              [
+                                    -79.493967,
+                                    43.774821
+                              ],
+                              [
+                                    -79.494045,
+                                    43.77517
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 36103,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 37198,
+                        "line": 1061779,
+                        "status": "3",
+                        "completetime": 1643762633000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 498.073980174106
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 33298,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.489665,
+                                    43.758058
+                              ],
+                              [
+                                    -79.489988,
+                                    43.759327
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 33298,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 34148,
+                        "line": 1061786,
+                        "status": "3",
+                        "completetime": 1643763134000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 198.769581762844
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 27653,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.471474,
+                                    43.729605
+                              ],
+                              [
+                                    -79.473439,
+                                    43.729148
+                              ],
+                              [
+                                    -79.477083,
+                                    43.728296
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 27653,
+                        "priority": "Local",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Local",
+                        "road_name": "WILSON AVE",
+                        "district": "North York",
+                        "unqueid": 28238,
+                        "line": 1067175,
+                        "status": "3",
+                        "completetime": 1643764321000,
+                        "receivedtime": 1643825080467,
+                        "Shape__Length": 656.097976677544
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 32685,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.488769,
+                                    43.754514
+                              ],
+                              [
+                                    -79.489229,
+                                    43.756359
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 32685,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 33529,
+                        "line": 1061559,
+                        "status": "3",
+                        "completetime": 1643763159000,
+                        "receivedtime": 1643825080467,
+                        "Shape__Length": 289.015166105032
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 28458,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.48361,
+                                    43.733123
+                              ],
+                              [
+                                    -79.483736,
+                                    43.733581
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 28458,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 29068,
+                        "line": 1067485,
+                        "status": "3",
+                        "completetime": 1643763538000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 71.9853551365787
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 35543,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.492055,
+                                    43.767314
+                              ],
+                              [
+                                    -79.493246,
+                                    43.771992
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 35543,
+                        "priority": "Major Arterial",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "Etobicoke",
+                        "unqueid": 36564,
+                        "line": 1061774,
+                        "status": "3",
+                        "completetime": 1643762718000,
+                        "receivedtime": 1643825080467,
+                        "Shape__Length": 733.110385032662
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 27562,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.482534,
+                                    43.728563
+                              ],
+                              [
+                                    -79.482652,
+                                    43.729061
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 27562,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 28144,
+                        "line": 1067373,
+                        "status": "3",
+                        "completetime": 1643763819000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 77.8617337668761
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 16344,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.469621,
+                                    43.681003
+                              ],
+                              [
+                                    -79.470167,
+                                    43.680656
+                              ],
+                              [
+                                    -79.470226,
+                                    43.680637
+                              ],
+                              [
+                                    -79.470268,
+                                    43.68062
+                              ],
+                              [
+                                    -79.470269,
+                                    43.68062
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 16344,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Local",
+                        "road_name": "HILLARY AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 16702,
+                        "line": 1059329,
+                        "status": "3",
+                        "completetime": 1643761140000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 93.6536512436055
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 27385,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.478509,
+                                    43.727977
+                              ],
+                              [
+                                    -79.47935,
+                                    43.727784
+                              ],
+                              [
+                                    -79.479622,
+                                    43.727663
+                              ],
+                              [
+                                    -79.479839,
+                                    43.727585
+                              ],
+                              [
+                                    -79.480034,
+                                    43.727497
+                              ],
+                              [
+                                    -79.480089,
+                                    43.727474
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 27385,
+                        "priority": "Local",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Local",
+                        "road_name": "WILSON AVE",
+                        "district": "North York",
+                        "unqueid": 27954,
+                        "line": 1067167,
+                        "status": "3",
+                        "completetime": 1643764015000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 193.452216174488
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 16665,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.467868,
+                                    43.68196
+                              ],
+                              [
+                                    -79.468353,
+                                    43.681687
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 16665,
+                        "priority": "Local",
+                        "routetype": "Etobicoke",
+                        "routeno": "WARD 5",
+                        "route_name": "Local",
+                        "road_name": "HILLARY AVE",
+                        "district": "Etobicoke",
+                        "unqueid": 17023,
+                        "line": 1059532,
+                        "status": "3",
+                        "completetime": 1643761098000,
+                        "receivedtime": 1643825080462,
+                        "Shape__Length": 68.4002162276213
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 32305,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.48818,
+                                    43.752025
+                              ],
+                              [
+                                    -79.488351,
+                                    43.75276
+                              ],
+                              [
+                                    -79.488486,
+                                    43.753329
+                              ],
+                              [
+                                    -79.488588,
+                                    43.753758
+                              ],
+                              [
+                                    -79.488769,
+                                    43.754514
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 32305,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 7",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 33147,
+                        "line": 1068635,
+                        "status": "3",
+                        "completetime": 1643763183000,
+                        "receivedtime": 1643825080463,
+                        "Shape__Length": 389.116839905405
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "id": 31478,
+                  "geometry": {
+                        "type": "LineString",
+                        "coordinates": [
+                              [
+                                    -79.486459,
+                                    43.744778
+                              ],
+                              [
+                                    -79.486705,
+                                    43.745819
+                              ],
+                              [
+                                    -79.486996,
+                                    43.747052
+                              ],
+                              [
+                                    -79.487599,
+                                    43.749608
+                              ]
+                        ]
+                  },
+                  "properties": {
+                        "OBJECTID": 31478,
+                        "priority": "Major Arterial",
+                        "routetype": "North York",
+                        "routeno": "WARD 6",
+                        "route_name": "Major Arterial",
+                        "road_name": "KEELE ST",
+                        "district": "North York",
+                        "unqueid": 32234,
+                        "line": 1067864,
+                        "status": "3",
+                        "completetime": 1643763257000,
+                        "receivedtime": 1643825080467,
+                        "Shape__Length": 755.008220191772
+                  }
+            }
+      ]
+}
