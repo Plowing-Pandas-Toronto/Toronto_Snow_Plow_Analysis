@@ -2,9 +2,9 @@
 
 In January 2022, Toronto had one of the most severe snow-storm events from the 16-17th. There was +45 cm of snow, making this storm fall into the top 10 most severe snow events for the City. The City was not prepared for this event, and in addition to overspending on their operations also received much negative publicity from the media.
 
-In this project, data was collected from the [City's PlowTO Map](https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/) interactive map which has point-in-time data. This snow-storm data was
+In this project, data was collected from the [City's PlowTO Map](https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/winter-maintenance/plowto/), an interactive map which has point-in-time data. This allowed us to have historical data on snow storm events in the month of February which  was collected, analyzed and combined with several data sources, to deliver an exploratory data analysis of this data answering questions in four main dimensions: performance, utilization, demographic trends and public perception.
 
-Overview of Files
+**Overview of Files**
 1. ```REST Server Downloader.ipynb```: Downloads from PlowTO Map REST Server and saves to JSON
 2. ```Plow Data Pipeline.ipynb```: Parses PlowTO JSON files to shapefile and creates plots of plow utility
 3. ```Weather Data Pipeline.ipnyb```: Parses Environment Canada data CSV files.
@@ -14,12 +14,11 @@ Overview of Files
 7. ```Twitter Sentiment and Weather Data.ipynb```: Merges Twitter sentiment and weather information, generates visualizations per storm event.
 
 
-
 **Overview of Data**:
 * ```Snow Plow Data``` - Feb 17th 8 PM - Feb 18th at 1 AM 
 * ```src``` folder: then have all our data folders (Plow TO, weather, shapefiles, twitter, demographics) there 
 * ```img``` folder: contain flow chart images for main project components
-* ```Presentation-Snow Plow TO.pptx```: presentation showing the exploratory data analyses process
+* ```Presentation-Snow Plow TO.pptx```: presentation showing the complete exploratory data analyses process
 
 **Links to Medium Articles:**
 How to Download from an ArcGIS REST Server using Python - https://medium.com/@thomas.deboer/how-to-download-from-an-arcgis-rest-server-using-python-df900db3e364
